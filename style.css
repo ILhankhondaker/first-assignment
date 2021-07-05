@@ -1,0 +1,28 @@
+body{font-family: 'Poppins', sans-serif;}
+span{color: orange;}
+section{display: flex;}
+h1{font-size: 50px;}
+#f-s-second-dive img{width: 500px;
+height: 400px;}
+.h-w{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    }
+
+.second-div img{
+    width:500px ; height: 400px;
+}
+#second-section{background-image: url(image/Frame\ 57.jpg);
+            background-repeat: no-repeat;
+           margin-top: 50px;
+}
+.button{
+    text-decoration: none;
+    background: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 700;
+ }

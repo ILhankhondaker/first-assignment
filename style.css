@@ -72,7 +72,22 @@ height: 400px;}
     padding-left: 40px;
     padding-right: 20px;
 }
- #footer{color: gray;
+ #footer{
+   padding-bottom: 10px;
+    color: gray;
     background-color: black; 
     text-align: center;
+}
+#forth-section {
+    margin-top:50px ;
+    padding: 15px;
+    background-image: url(image/second-bg.jpg);
+    background-repeat: no-repeat;
+}
+#forth-s-div{
+    margin-right: 50px;
+}
+#f-sec-div img{
+    height: 500px;
+    width: 700px;
 }

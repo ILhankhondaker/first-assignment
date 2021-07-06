@@ -4,6 +4,7 @@ section{display: flex;}
 h1{font-size: 50px;}
 #f-s-second-dive img{width: 500px;
 height: 400px;}
+
 .h-w{
     width: 40%;
     float: left;
@@ -14,9 +15,18 @@ height: 400px;}
 .second-div img{
     width:500px ; height: 400px;
 }
-#second-section{background-image: url(image/Frame\ 57.jpg);
-            background-repeat: no-repeat;
-           margin-top: 50px;
+#bout-me{color: gray;}
+#second-section{ 
+    background-image: url(image/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    padding-bottom: 15px;
+}
+#midle-dvi{
+    color: gray;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .button{
     text-decoration: none;
@@ -26,3 +36,24 @@ height: 400px;}
     color: white;
     font-weight: 700;
  }
+ #css-pic img {
+     padding: 5%;
+     height: 225px;
+     width: 190px;
+ }
+ #java-pic img{
+     height: 200px;
+     width: 250px;
+     padding: 5%;
+ }
+ .s-box{
+     border-radius: 10px;
+     height: 410px;
+     width: 500px;
+     padding: 10px;
+     margin-left: 5%;
+     margin-right: 5%;
+     box-shadow:10px 10px 50px gray;
+ }
+
+ 

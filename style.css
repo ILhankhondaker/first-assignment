@@ -5,7 +5,9 @@ body{
 span{color: orange;}
 section{display: flex;}
 h1{font-size: 50px;}
-#f-s-second-dive img{width: 500px;
+#f-s-second-dive img{
+    margin-top: 20px;
+    width: 500px;
 height: 400px;}
 
 .h-w{
@@ -16,6 +18,7 @@ height: 400px;}
     }
 
 .second-div img{
+
     width:500px ; height: 400px;
 }
 #bout-me{color: gray;}

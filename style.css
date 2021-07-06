@@ -42,12 +42,16 @@ height: 400px;}
     color: white;
     font-weight: 700;
  }
- #css-pic img {
+ #pasta-pic img{
      padding: 5%;
-     height: 225px;
-     width: 190px;
  }
- #java-pic img{
+ #cake-pic img {
+     padding: 5%;
+    
+     height: 200px;
+     width: 250px;
+ }
+ #Chicken-pic img{
      height: 200px;
      width: 250px;
      padding: 5%;
